@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1590787023 source:c:\users\tchic\desktop\gestion d'une banque\main.cpp
+	<iostream>
+	<string.h>
+	<fstream>
+
+1590788115 source:c:\users\tchic\desktop\gestion d'une banque\compte.cpp
+	<iostream>
+	"compte.h"
+
+1590788354 c:\users\tchic\desktop\gestion d'une banque\compte.h
+
+1590788161 source:c:\users\tchic\desktop\gestion d'une banque\client.cpp
+	<iostream>
+	"client.h"
+
+1590787725 c:\users\tchic\desktop\gestion d'une banque\client.h
+
+1590788196 source:c:\users\tchic\desktop\gestion d'une banque\operations.cpp
+	<iostream>
+	"compte.h"
+
+1590791761 source:d:\study\est-oujda\premiere année\s2\structure de données en cpp\projets\gestion d'une banque\client.cpp
+	<iostream>
+	"client.h"
+
+1590791325 d:\study\est-oujda\premiere année\s2\structure de données en cpp\projets\gestion d'une banque\client.h
+
+1590791715 source:d:\study\est-oujda\premiere année\s2\structure de données en cpp\projets\gestion d'une banque\compte.cpp
+	<iostream>
+	"compte.h"
+
+1590791954 d:\study\est-oujda\premiere année\s2\structure de données en cpp\projets\gestion d'une banque\compte.h
+
+1590792003 source:d:\study\est-oujda\premiere année\s2\structure de données en cpp\projets\gestion d'une banque\main.cpp
+	<iostream>
+	<string.h>
+	<fstream>
+	"compte.h"
+	"client.h"
+
+1590791796 source:d:\study\est-oujda\premiere année\s2\structure de données en cpp\projets\gestion d'une banque\operations.cpp
+	<iostream>
+	"compte.h"
+
